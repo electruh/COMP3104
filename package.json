@@ -13,7 +13,7 @@
   "keywords": ["devops", "nodejs", "express", "web"],
   "author": "Allanis Sumaya",
   "license": "ISC",
-  "bugs":
+  "bugs":{
     "url": "https://github.com/electruh/COMP3104/issues"
   },
   "homepage": "https://github.com/electruh/COMP3104#readme"
